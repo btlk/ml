@@ -6,10 +6,12 @@ This repo contains my homework assignements during machine learning course taken
 
 ## in particular
 
+```
 `nn` is my micro deep learning battleground (with ad-hoc Kohonen SOM runner inside)
 'clus' is ForEl algo implementation
 'gene' is hybrid genetical algo boosted by GD 
 'utils' is common facilities library
+```
 
 ## disclaimer
 
