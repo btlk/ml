@@ -20,7 +20,6 @@ Thus, do not be surprised to see hacks, ad-hoc design and some anti-patterns (th
 
 ## future plans
 
-Although there is no planned development, this repo is and always be my sandbox for ML algos implementation.
+Although there is no planned development, this repo is and will always be my sandbox for ML algos implementation.
 
-Have fun, whoever you are.
--btlk
+Have fun, whoever you are. -btlk
